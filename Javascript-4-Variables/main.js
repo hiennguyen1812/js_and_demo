@@ -1,8 +1,5 @@
-var cat = "Meo"
-function catName () {
-	var cat = "cho"
-	document.write(cat)
+var a = 1;
+
+if(a==1) {
+	
 }
-//var trong function được ưu tiên hơn
-// => in ra "cho"
-catName()

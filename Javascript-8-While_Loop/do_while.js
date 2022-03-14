@@ -8,3 +8,4 @@ do {
 	alert("Số bạn vừa nhập là: " + value)
 } // xét điều kiên trong while đúng sẽ hiệ ra alert
 // nếu sai điều kiện sẽ thực hiện lạ từ "do"
+
